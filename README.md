@@ -1,7 +1,7 @@
 # Welcome!
 - Myself *Jigar Patel*.
 
-**Most recent project** : [M.Sc. thesis](https://github.com/Astrojigs/Aerial-images-to-maps) which uses deep convolutional neural network to convert Aerial maps to street map like interface and vice versa
+**Currently working on [Life-simulation](https://github.com/Astrojigs/Life-Simulation)**
 
 ## Qualifications: 
 - **M.Sc. Data Science & Analytics**, Maynooth University, Ireland (2022 graduate)
