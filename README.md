@@ -1,11 +1,90 @@
-# Welcome!
-- Myself *Jigar Patel*.
+# Hello there!
+# I'm Jigar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-**Currently working on [Life-simulation](https://github.com/Astrojigs/Life-Simulation)**
 
-## Qualifications: 
-- **M.Sc. Data Science & Analytics**, Maynooth University, Ireland (2022 graduate)
-- **B.Sc. Physics**, Mumbai, India
+<table>
+  <tr>
+    <td valign="center">
+    
+      🎓 M.Sc. Data Science & Analytics || B.Sc. Physics.
+      
+      🌱 I am currently learning TensorFlow and also interested in diffusion models and simulations.
+      
+      🎯 My Goal is to contribute to as many **open source project** as possible.
+      
+      ✨ I love to create different types of **contents** closely related to Physics, 
+      Statistics and Machine learning.
+<td >
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190px">
+    </td>
+    
+  </tr>
+  </table>
+
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://iconscout.com/lottie/python-4898778">
+      </td>
+      <td width="25%" align="center">
+        <span>R</span><br><br><br>
+        <img height="64px" src="https://abrudz.github.io/logos/R.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Mathematica</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/190px-Mathematica_Logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>SQL</span><br><br><br>
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-128/postgresql-11-1175122.png">
+        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-128/postgresql-11-1175122.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ### Languages:
 * Python
