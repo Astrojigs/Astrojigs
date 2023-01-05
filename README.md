@@ -8,7 +8,8 @@
     
       🎓 M.Sc. Data Science & Analytics || B.Sc. Physics.
       
-      🌱 I am currently learning TensorFlow and also interested in diffusion models and simulations.
+      🌱 I am currently learning TensorFlow and also interested in diffusion models
+      and simulations.
       
       🎯 My Goal is to contribute to as many **open source project** as possible.
       
