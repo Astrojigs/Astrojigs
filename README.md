@@ -22,6 +22,18 @@
   </tr>
   </table>
 
+<p align="center">
+  <h1> 🧑‍💻 Things I do </h1>
+</p>
+
+| [Convolutional Neural Netorks 🤖](https://github.com/Astrojigs/Aerial-images-to-maps) |
+|--|
+|[<img src="https://github.com/Astrojigs/Aerial-images-to-maps/blob/main/Images/example%20images/cycgan_256op.png" height=302px>](https://github.com/Astrojigs/Aerial-images-to-maps)|
+
+||[Life Simulation 🌱](https://github.com/Astrojigs/Life-Simulation)||
+|---|---|---|
+|[<img src="https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo2_gif.gif" height=300 width=300>](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo2_gif.gif)|[<img src="https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo3_gif.gif" height=300 width=300>](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo3_gif.gif)|[<img src="https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo4_gif.gif" height=300 width=300>](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo4_gif.gif)|
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
