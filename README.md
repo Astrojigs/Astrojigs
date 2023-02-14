@@ -28,11 +28,11 @@
 
 | [Data Structures](https://github.com/Astrojigs/Orbital-simulations)|
 |--|
-|[<img src = "https://github.com/Astrojigs/Orbital-simulations/blob/main/Outputs/GIF/Barnes_hut_dual_gif.gif" height=302px>]|
+|<img src = "https://github.com/Astrojigs/Orbital-simulations/blob/main/Outputs/GIF/Barnes_hut_dual_gif.gif" height=302px>|
 
 |[Efficient Algorithms](https://github.com/Astrojigs/Orbital-simulations)|
 |--|
-|[<img src = "https://github.com/Astrojigs/Orbital-simulations/blob/main/Outputs/GIF/galaxy_sim_barnes_hut.gif" height=602px>]|
+|<img src = "https://github.com/Astrojigs/Orbital-simulations/blob/main/Outputs/GIF/galaxy_sim_barnes_hut.gif" height=602px>|
 
 | [Convolutional Neural Netorks 🤖](https://github.com/Astrojigs/Aerial-images-to-maps) |
 |--|
