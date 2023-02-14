@@ -26,6 +26,14 @@
   <h1> 🧑‍💻 Things I do </h1>
 </p>
 
+| [Data Structures](https://github.com/Astrojigs/Orbital-simulations)|
+|--|
+|[<img src = "https://github.com/Astrojigs/Orbital-simulations/blob/main/Outputs/GIF/Barnes_hut_dual_gif.gif" height=302px>]|
+
+|[Efficient Algorithms](https://github.com/Astrojigs/Orbital-simulations)|
+|--|
+|[<img src = "https://github.com/Astrojigs/Orbital-simulations/blob/main/Outputs/GIF/galaxy_sim_barnes_hut.gif" height=602px>]|
+
 | [Convolutional Neural Netorks 🤖](https://github.com/Astrojigs/Aerial-images-to-maps) |
 |--|
 |[<img src="https://github.com/Astrojigs/Aerial-images-to-maps/blob/main/Images/example%20images/cycgan_256op.png" height=302px>](https://github.com/Astrojigs/Aerial-images-to-maps)|
