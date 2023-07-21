@@ -26,6 +26,11 @@
   <h1> 🧑‍💻 Things I do </h1>
 </p>
 
+|GIS|Data Visualization with Python SQL QGIS and Tableau|Statisical modelling|
+|--|--|--|
+|![](https://github.com/Astrojigs/Delhi-air-pollution-reasons/blob/main/Photos/terrain%20with%20wind%20data%20in%20Novemeber.png)|![](https://user-images.githubusercontent.com/63223240/137791129-57aa84d9-69a7-480e-883f-1909c7b7dc14.png)|![](https://github.com/Astrojigs/Chaos-Pattern-and-Physics/raw/main/100.png)|
+
+
 | [Data Structures](https://github.com/Astrojigs/Orbital-simulations)|
 |--|
 |<img src = "https://github.com/Astrojigs/Orbital-simulations/blob/main/Outputs/GIF/Barnes_hut_dual_gif.gif" height=302px>|
