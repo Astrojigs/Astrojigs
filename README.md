@@ -8,13 +8,12 @@
     
       🎓 M.Sc. Data Science & Analytics || B.Sc. Physics.
       
-      🌱 I am currently learning TensorFlow and also interested in diffusion models
-      and simulations.
+      🌱 Currently working on Statistical Modeling.
       
-      🎯 My Goal is to contribute to as many **open source project** as possible.
+      🎯 My Goal is to contribute to as many **open-source project** as possible.
       
       ✨ I love to create different types of **contents** closely related to Physics, 
-      Statistics and Machine learning.
+      Statistics and Machine Learning.
 <td >
       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190px">
     </td>
