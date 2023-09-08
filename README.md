@@ -15,7 +15,7 @@
       ✨ I love to create different types of **contents** closely related to Physics, 
       Statistics and Machine Learning.
 <td >
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190px">
+      <img src="https://media.tenor.com/iTtJ7nAqpIcAAAAC/stray-coding.gif" width="190px">
     </td>
     
   </tr>
