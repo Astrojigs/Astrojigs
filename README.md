@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./gifs/astrojigs.gif" alt="Astrojigs intro" width="500"/>
+  <img src="./gifs/astrojigs_intro.gif" alt="Astrojigs intro" width="500"/>
 </p>
 
 # Hello there!
