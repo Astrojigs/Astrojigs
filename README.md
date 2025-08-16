@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./gifs/astrojigs.gif" alt="Astrojigs intro" width="500"/>
+</p>
+
 # Hello there!
 # I'm Jigar
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
