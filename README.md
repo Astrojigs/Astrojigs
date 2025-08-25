@@ -6,15 +6,10 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <!-- Core identity -->
-  <img src="https://img.shields.io/badge/Jigar-Patel-blue?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Analyst-Mater%20Hospital-success?style=for-the-badge&logo=hospital&logoColor=white">
-</p>
 
 <p align="center">
   <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-Data%20Science-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-Postgres-informational?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-Dashboards-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
