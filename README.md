@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/Astrojigs">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Physicist+%7C+Astrophotographer;Statistical+Modeling+%26+Risk+Analysis;Machine+Learning+%26+Data+Visualization;Open+Source+Contributor" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Physicist+%7C+Astrophotographer;Creator+of+echartsy+%E2%80%94+Python+charting+library;Statistical+Modeling+%26+Risk+Analysis;Machine+Learning+%26+Data+Visualization;Open+Source+Contributor" alt="Typing SVG">
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 **M.Sc. Data Science & Analytics** | **B.Sc. Physics**
 
-I work at the intersection of physics, statistics, and machine learning — building models that turn complex data into clear, actionable insight. Currently focused on statistical modeling, risk & portfolio analysis, and contributing to open-source projects.
+I work at the intersection of physics, statistics, and machine learning — building models that turn complex data into clear, actionable insight. Currently focused on statistical modeling, risk & portfolio analysis, and building **[echartsy](https://github.com/Astrojigs/echartsy)**, an open-source Python charting library.
 
 Outside of work, you'll find me doing astrophotography, bouldering, or tinkering with physics simulations.
 
@@ -42,6 +42,78 @@ Outside of work, you'll find me doing astrophotography, bouldering, or tinkering
 </td>
 </tr>
 </table>
+
+---
+
+### `echartsy` — My Open-Source Python Charting Library
+
+<p align="center">
+  <a href="https://pypi.org/project/echartsy/">
+    <img src="https://img.shields.io/pypi/v/echartsy?style=flat-square&color=3776AB" alt="PyPI">
+  </a>
+  <a href="https://pypi.org/project/echartsy/">
+    <img src="https://img.shields.io/pypi/pyversions/echartsy?style=flat-square" alt="Python">
+  </a>
+  <a href="https://github.com/Astrojigs/echartsy/stargazers">
+    <img src="https://img.shields.io/github/stars/Astrojigs/echartsy?style=flat-square&color=F5C542" alt="Stars">
+  </a>
+  <a href="https://github.com/Astrojigs/echartsy/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Astrojigs/echartsy?style=flat-square&color=blue" alt="License">
+  </a>
+</p>
+
+<p align="center"><b>Interactive charts in Python — the matplotlib workflow, the ECharts experience.</b></p>
+
+I built **[echartsy](https://github.com/Astrojigs/echartsy)** to bring Apache ECharts' rich interactivity to Python without leaving the familiar `figure()` → `plot()` → `show()` workflow. Every chart ships with tooltips, legend toggling, zoom, and an export toolbox out of the box — no JSON config or JavaScript required.
+
+```bash
+pip install echartsy
+```
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/astrojigs/echartsy/main/assets/demo_full_dashboard.png" width="100%">
+<br><sub><b>KPI Dashboard</b></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/astrojigs/echartsy/main/assets/demo_sankey.png" width="100%">
+<br><sub><b>Sankey Diagram</b></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/astrojigs/echartsy/main/assets/demo_composite_dark.png" width="100%">
+<br><sub><b>Composite (Dark Mode)</b></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/astrojigs/echartsy/main/assets/demo_heatmap.png" width="100%">
+<br><sub><b>Heatmap</b></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/astrojigs/echartsy/main/assets/demo_radar.png" width="100%">
+<br><sub><b>Radar</b></sub>
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/astrojigs/echartsy/main/assets/demo_treemap.png" width="100%">
+<br><sub><b>Treemap</b></sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>15+ chart types</b> · Bar · Line · Scatter · Pie · Radar · Heatmap · Sankey · Treemap · Funnel · Boxplot · KDE · Histogram · Dual-Axis · Composites
+  <br>
+  <b>4 style presets</b> · Clinical · Dashboard Dark · KPI Report · Minimal
+  <br>
+  Works in <b>Jupyter</b> · <b>Streamlit</b> · <b>Standalone Python</b> · Adaptive dark mode
+</p>
+
+<p align="center">
+  <a href="https://github.com/Astrojigs/echartsy"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+  <a href="https://pypi.org/project/echartsy/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a>&nbsp;
+  <a href="https://www.astrojigs.dev/projects-echartsy"><img src="https://img.shields.io/badge/Live_Examples-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Examples"></a>
+</p>
 
 ---
 
