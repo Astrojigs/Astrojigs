@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/Astrojigs">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Physicist+%7C+Astrophotographer;Creator+of+echartsy+%E2%80%94+Python+charting+library;Statistical+Modeling+%26+Risk+Analysis;Machine+Learning+%26+Data+Visualization;Open+Source+Contributor" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Physics+Major+%7C+Astrophotographer;Creator+of+echartsy+%E2%80%94+Python+charting+library;Statistical+Modeling+%26+Risk+Analysis;Machine+Learning+%26+Data+Visualization;Open+Source+Contributor" alt="Typing SVG">
   </a>
 </p>
 
